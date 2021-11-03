@@ -1,11 +1,11 @@
 # Vue-Js / Quasar
-# branch >
+# Git Branch:
 
-# Vue portfolio
+# -Vue portfolio
 un portfolio crée en VueJS from scratch
 
-# Quasar
+# -Quasar
 un tuto pour quasar
 
-# Quasar-portfolio
+# -Quasar-portfolio
 un tuto de base sur un portfolio en quasar
